@@ -43,7 +43,7 @@ body {
     margin: 5px 30px;
     padding: 10px 25px;
     background-image: linear-gradient(160deg, rgb(73, 45, 159), rgb(13, 26, 122));
-    transition: 0.1s all;
+    transition: 0.9s all;
 }
 
 .text__Account:hover {
