@@ -55,4 +55,8 @@ body {
         text-align: center;
         flex-direction: column;
     }
+
+    .text__Account {
+        margin: 5px 10px;
+    }
 }
